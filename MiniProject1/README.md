@@ -4,10 +4,14 @@ Red Store is a simple e-commerce website template built with HTML, CSS, and Java
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Red Store](#red-store)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [ScreenShot](#screenshot)
+  - [Contact](#contact)
 
 ## Features
 
@@ -36,9 +40,4 @@ Contributions are welcome! If you'd like to contribute to Red Store, please fork
 ![project-5](https://github.com/user-attachments/assets/ba4987b6-12ef-474f-8817-ecbc138f00ea)
 
 ## Contact
-For any inquiries, reach out at [kaushal.r.sahu@outlook.com].<br>
-GitHub: [@kaushalsahu07](https://github.com/kaushalsahu07).<br>
-Linkedin: [@kaushalsahu07](www.linkedin.com/in/kaushalsahu07).<br>
-Instagram: [@cd.kaushal](https://www.instagram.com/cd.kaushal?igsh=cTVram1ia3Vvamxz).<br>
-Portfolio: [Website Link ](https://kaushalsahu07.github.io/portfolio/).<br>
-X (Tweeter): [@kaushalsahu_07](https://x.com/kaushalsahu_07?t=7nk-jApWrJkgW6YwklJZWQ&s=09).<br>
+If you have any questions or would like to collaborate, please don't hesitate to reach out to me
