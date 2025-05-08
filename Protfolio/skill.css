@@ -190,7 +190,7 @@ a {
     width: 10px;
   }
   to {
-    width: 80%;
+    width: 40%;
   }
 }
 @-webkit-keyframes Animate-Python {
@@ -198,7 +198,7 @@ a {
     width: 10px;
   }
   to {
-    width: 80%;
+    width: 40%;
   }
 }
 @-moz-keyframes Animate-Python {
@@ -206,7 +206,7 @@ a {
     width: 10px;
   }
   to {
-    width: 80%;
+    width: 40%;
   }
 }
 @-o-keyframes Animate-Python {
@@ -214,7 +214,7 @@ a {
     width: 10px;
   }
   to {
-    width: 80%;
+    width: 40%;
   }
 }
 #Skill-JS {
