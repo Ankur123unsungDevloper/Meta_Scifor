@@ -1,9 +1,9 @@
-Q1 Display name in Welcome component with using of prop.
-    Result:
-    Screenshort
+Q1 Display name in Welcome component with using of prop. <br/>
+    Result: <br/>
+    Screenshort <br/>
     ![alt text](image.png)
-
-Q2 Display a text in Hello component.
+<br/><br/>
+Q2 Display a text in Hello component. <br/>
     Result:
     Screenshort
     ![alt text](image-1.png)
